@@ -1,5 +1,4 @@
-module gin_validation_custom
-
+module github.com/webws/gin-validation-custom
 go 1.15
 
 require (
